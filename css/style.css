@@ -1,0 +1,28 @@
+/*----------------------
+ font style  
+ -------------------*/
+ @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;500&family=Poppins:wght@500&family=Roboto+Slab:wght@300&family=Roboto:wght@500&display=swap');
+ 
+ /*------------------------
+  body  
+  ----------------------*/
+  body{
+    font-family: 'Roboto', sans-serif;
+  }
+  .nathing{
+    color: salmon;
+    background-color: rgb(226, 192, 43);
+    
+  }
+  .Every{
+    color: slateblue;
+  }
+  .package{
+    color: rgb(4, 0, 255);
+  }
+  .asked{
+    color: chartreuse;
+  }
+  .free{
+    color: rgb(238, 130, 130);
+  }
